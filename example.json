@@ -1,0 +1,19 @@
+{
+    "persons": [
+        {
+            "prename": "Gustav",
+            "surname": "Lange",
+            "age": 18
+        },
+        {
+            "prename": "Peterson",
+            "surname": "Findus",
+            "age": 56
+        },
+        {
+            "prename": "Dick",
+            "surname": "Doof",
+            "age": 8
+        }
+    ]
+}
